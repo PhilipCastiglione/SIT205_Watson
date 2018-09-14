@@ -7,6 +7,7 @@ name = "pypi"
 jupyter = "*"
 python-twitter = "*"
 python-dotenv = "*"
+watson-developer-cloud = "*"
 
 [dev-packages]
 

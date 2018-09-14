@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e339afc268fa8a7ce8e59b0dcb01f417ab23c77e1ceedbe93faa068058cfd40c"
+            "sha256": "5cdeec672914a35272a7f69035159fe8361a3c46a171ef61ddca261df2ce897b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -411,6 +411,13 @@
             "markers": "python_version >= '2.6' and python_version != '3.2.*' and python_version != '3.3.*' and python_version < '4' and python_version != '3.0.*' and python_version != '3.1.*'",
             "version": "==1.23"
         },
+        "watson-developer-cloud": {
+            "hashes": [
+                "sha256:d0c94f54d5efcf7d61556c725665ad8abfcd9ee8ae00091c62f39046fab92914"
+            ],
+            "index": "pypi",
+            "version": "==2.0.1"
+        },
         "wcwidth": {
             "hashes": [
                 "sha256:3df37372226d6e63e1b1e1eda15c594bca98a22d33a23832a90998faa96bc65e",
@@ -424,6 +431,13 @@
                 "sha256:b36a1c245f2d304965eb4e0a82848379241dc04b865afcc4aab16748587e1923"
             ],
             "version": "==0.5.1"
+        },
+        "websocket-client": {
+            "hashes": [
+                "sha256:188b68b14fdb2d8eb1a111f21b9ffd2dbf1dbc4e4c1d28cf2c37cdbf1dd1cae6",
+                "sha256:a453dc4dfa6e0db3d8fd7738a308a88effe6240c59f3226eb93e8f020c216149"
+            ],
+            "version": "==0.47.0"
         },
         "widgetsnbextension": {
             "hashes": [
